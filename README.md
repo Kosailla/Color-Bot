@@ -1,6 +1,4 @@
-**Description**
-
-   This Color Bot is an automation tool that monitors the screen and performs actions based on detecting specific colors.
+ **This Color Bot is an automation tool that monitors the screen and performs actions based on detecting specific colors.**
 
 
     
